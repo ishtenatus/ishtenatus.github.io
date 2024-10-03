@@ -1,2 +1,1 @@
-# ishtenatus.github.io
-# ishtenatus.lovestoblog.com
+# [WEB SİTEM](http://ishtenatus.lovestoblog.com/)
